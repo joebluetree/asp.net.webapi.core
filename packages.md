@@ -1,4 +1,26 @@
-# Create Asp.Net Web Api Core Project
-## Install Below Packages
-#### Microsoft.Entityframeworkcore.SqlServer
-#### Microsoft.Entityframeworkcore.Tools
+
+# Install Below Packages
+## Microsoft.Entityframeworkcore.SqlServer
+## Microsoft.Entityframeworkcore.Tools
+
+# Add Sql server connection string to appsettings.json
+
+```
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "NZWalks": "server=.;database=NZWalksDb;Trusted_Connection=true"
+  },
+  "Jwt": {
+    "Key": "dwc8aqu8ExmFfJzKLudJ4DpefeE7dDAMBhSXexM",
+    "Issuer": "https://localhost:7130/",
+    "Audience": "https://localhost:7130/"
+  }
+}
+```
