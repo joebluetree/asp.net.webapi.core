@@ -1,6 +1,11 @@
 # DotNet Framework Web Api Project 
 This repository is for asp.net web api Framework Project
 
+# Create Asp.Net Web Api Core Project
+## Install Below Packages
+#### Microsoft.Entityframeworkcore.SqlServer
+#### Microsoft.Entityframeworkcore.Tools
+
 <p>
 <a href="./startup.md">Token Generation </a>
 </p>
