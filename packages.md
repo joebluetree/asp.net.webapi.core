@@ -1,9 +1,7 @@
 
-# Install Below Packages
+## Install Below Packages
 #### Microsoft.Entityframeworkcore.SqlServer
 #### Microsoft.Entityframeworkcore.Tools
-
-###### Microsoft.Entityframeworkcore.Tools
 
 ## Add Sql server connection string to appsettings.json
 
