@@ -17,6 +17,10 @@ This repository is for asp.net web api Core Project
 </p>
 
 <p>
+<a href="./controller.md">Web Api End Points / Controller Class</a>
+</p>
+
+<p>
 <a href="./settings.md">Program.cs and AppSettings.json </a>
 </p>
 
