@@ -16,9 +16,8 @@ This repository is for asp.net web api Core Project
 <a href="./bal.md">Business Access Layer </a>
 </p>
 
-
 <p>
-<a href="./startup.md">Token Generation </a>
+<a href="./settings.md">Program.cs and AppSettings.json </a>
 </p>
 
 
