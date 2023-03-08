@@ -2,6 +2,10 @@
 
 ## DotNet Standard Libraray for Database Access
 
+#### Nuget Packages
+###### Microsoft.EntityFrameworkCore
+
+
 #### Add Below Domain Models
 
 <p> Create the folder Models inside the project 
