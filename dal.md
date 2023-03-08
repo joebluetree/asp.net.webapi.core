@@ -4,7 +4,7 @@
 
 #### Add Below Domain Models
 
-<p> Create the Models inside the project 
+<p> Create the folder Models inside the project 
 then add below class
 </p>
 
@@ -44,3 +44,23 @@ namespace Database.DTO
 }
 ```
 
+#### Add Entity Framework DBContext Class
+<p>Create a class and give the name AppDbContext
+inside the project
+</p>
+
+
+```
+using Microsoft.EntityFrameworkCore;
+using Database.models;
+namespace Database
+{
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+        public DbSet<userm> Userm { get; set; }
+    }
+}
+```
