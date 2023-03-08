@@ -4,7 +4,7 @@
 ## Create a standard project library namely UserAdmin
 #### now add a folder Repositories, then add below class
 
-###### iUserRepository.cs
+###### IUserRepository.cs
 ```
 using Database.models;
 namespace UserAdmin.Repositories
