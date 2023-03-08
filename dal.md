@@ -4,8 +4,10 @@
 
 #### Add Below Domain Models
 
-###### Create a folder Models inside the project 
-###### then add below class
+<p> Create the Models inside the project 
+then add below class
+</p>
+
 ```
 using System.ComponentModel.DataAnnotations;
 namespace Database.models
@@ -24,8 +26,9 @@ namespace Database.models
 }
 ```
 #### Add Below DTO models
-###### Create a folder DTO inside the project 
-###### then add below class
+<p>Create the folder DTO inside the project 
+then add below class
+</p>
 
 ```
 namespace Database.DTO
