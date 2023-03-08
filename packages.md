@@ -18,12 +18,13 @@ Microsoft.Entityframeworkcore.Tools
   },
   "AllowedHosts": "*",
   "ConnectionStrings": {
-    "NZWalks": "server=.;database=NZWalksDb;Trusted_Connection=true"
+    "DefaultConnection": "server=HQSERVER;database=demodb;User Id=sa;password=sa123#;Trusted_Connection=false;TrustServerCertificate=True"
   },
   "Jwt": {
     "Key": "dwc8aqu8ExmFfJzKLudJ4DpefeE7dDAMBhSXexM",
-    "Issuer": "https://localhost:7130/",
-    "Audience": "https://localhost:7130/"
+    "Issuer": "https://localhost:5153/",
+    "Audience": "https://localhost:5153/"
   }
 }
+
 ```

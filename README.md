@@ -11,6 +11,11 @@ This repository is for asp.net web api Core Project
 <a href="./dal.md">Data Access Layer </a>
 </p>
 
+<p>
+<a href="./models.md">Models</a>
+</p>
+
+
 
 <p>
 <a href="./startup.md">Token Generation </a>
@@ -23,9 +28,7 @@ This repository is for asp.net web api Core Project
 </p>
 
 
-<p>
-<a href="./models.md">Models</a>
-</p>
+
 
 <p>
 <a href="./tables.md">Table Script</a>

@@ -46,7 +46,7 @@ namespace Database.DTO
 
 #### Add Entity Framework DBContext Class
 <p>Create a class and give the name AppDbContext
-inside the project
+inside the project, then add below code
 </p>
 
 
@@ -63,4 +63,15 @@ namespace Database
         public DbSet<userm> Userm { get; set; }
     }
 }
+```
+
+#### Setting Up DBContext in program.cs file
+<p>Now add below code in program.cs to setup DbContext
+</p>
+
+```
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 ```
