@@ -6,8 +6,7 @@ Database Models
 </p>
 
 ```
-using System;
-namespace Database.Models
+namespace Database.models.domain
 {
     public class User
     {
@@ -19,16 +18,13 @@ namespace Database.Models
         public Boolean user_is_locked { get; set; }
         public Boolean user_is_admin { get; set; }
     }
-    public class User_SearchData
-    {
-        public Page PageData { get; set; }
-    }
+
 }
+
 ```
 
 ```
-using System;
-namespace Database.Models
+namespace Database.models.vm
 {
     public class Page
     {
@@ -36,7 +32,7 @@ namespace Database.Models
         public int pages { get; set; }
         public int currentPageNo { get; set; }
         public int rows { get; set; }
-        public string action { get; set; }
+        public string? action { get; set; }
     }
 }
 

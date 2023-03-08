@@ -1,18 +1,22 @@
-# DotNet Framework Web Api Project 
-This repository is for asp.net web api Framework Project
+# DotNet Web Api Core Project 
+This repository is for asp.net web api Core Project
 
 
 <p>
 <a href="./packages.md">Nuget Packages </a>
 </p>
 
-<p>
-<a href="./startup.md">Token Generation </a>
-</p>
 
 <p>
 <a href="./dal.md">Data Access Layer </a>
 </p>
+
+
+<p>
+<a href="./startup.md">Token Generation </a>
+</p>
+
+
 
 <p>
 <a href="./bal.md">Business Access Layer </a>

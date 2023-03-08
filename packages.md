@@ -6,7 +6,7 @@ Microsoft.Entityframeworkcore.SqlServer
 Microsoft.Entityframeworkcore.Tools
 ```
 
-## Add Sql server connection string to appsettings.json
+## Add Sql server connection string and Jwt Settings to appsettings.json
 
 ```
 {
