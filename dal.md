@@ -1,12 +1,14 @@
-<h1> Data Access Layer </h1>
+# Data Access Layer 
 
-<h3>.Net Standard Libraray for Database Access</h3>
+## DotNet Standard Libraray for Database Access
 
-<h4> Add Below Domain Models </h4>
+#### Add Below Domain Models
 
+###### Create a folder Models inside the project 
+###### then add below class
 ```
 using System.ComponentModel.DataAnnotations;
-namespace Database.domain.models
+namespace Database.models
 {
     public class userm
     {
@@ -19,14 +21,14 @@ namespace Database.domain.models
         public string user_is_locked = "N";
         public string user_is_admin = "N";
     }
-
 }
+```
+#### Add Below DTO models
+###### Create a folder DTO inside the project 
+###### then add below class
 
 ```
-<h4> Add Below DTO models </h4>
-
-```
-namespace Database.dto
+namespace Database.DTO
 {
     public class Page
     {
