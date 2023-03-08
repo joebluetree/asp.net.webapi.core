@@ -2,6 +2,12 @@
 
 
 ## Create a standard project library namely UserAdmin
+
+####  Nuget Packages
+###### Microsoft.AspNetCore.Mvc
+###### Microsoft.IdentityModel.Token
+###### System.IdentityModel.Tokens.Jwt
+
 #### now add a folder Repositories, then add below class
 ###### IUserRepository.cs
 ```
