@@ -9,7 +9,7 @@ using UserAdmin.Repositories;
 namespace UserAdmin.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("Auth")]
     public class AuthController : Controller
     {
         private readonly IUserRepository userRepository;
@@ -27,16 +27,28 @@ namespace UserAdmin.Controllers
         {
             // Check if user is authenticated
             // Check username and password
-            var user = await userRepository.AuthenticateAsync(code, password);
-
-            if (user != null)
+            try
             {
-                // Generate a JWT Token
-                var token = await tokenHandler.CreateTokenAsync(user);
-                return Ok(token);
+                var user = await userRepository.AuthenticateAsync(code, password);
+                if (user != null)
+                {
+                    // Generate a JWT Token
+                    var token = await tokenHandler.CreateTokenAsync(user);
+                    Dictionary<string, object> data = new Dictionary<string, object>();
+                    data.Add("user_id", user.user_id);
+                    data.Add("user_code", user.user_code);
+                    data.Add("user_name", user.user_name);
+                    data.Add("user_email", user.user_email);
+                    data.Add("user_is_admin", user.user_is_admin);
+                    data.Add("token", token);
+                    return Ok(data);
+                }
+                return Unauthorized("Invalid User Name/Password");
             }
-
-            return BadRequest("Username or Password is incorrect.");
+            catch (Exception ex )
+            {
+                return BadRequest(ex.Message.ToString());
+            }
         }
     }
 }

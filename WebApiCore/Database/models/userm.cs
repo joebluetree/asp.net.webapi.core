@@ -4,13 +4,13 @@ namespace Database.models
     public class userm
     {
         [Key]
-        public int user_id = 0;
-        public string user_code = "";
-        public string user_name ="";
-        public string user_password = "";
-        public string user_email = "";
-        public string user_is_locked = "N";
-        public string user_is_admin = "N";
+        public int user_id { get; set; }  = 0;
+        public string user_code { get; set; } = "";
+        public string user_name { get; set; } = "";
+        public string user_password { get; set; }  = "";
+        public string user_email { get; set; }  = "";
+        public string user_is_locked { get; set; }  = "N";
+        public string user_is_admin { get; set; }  = "N";
     }
 
 }
