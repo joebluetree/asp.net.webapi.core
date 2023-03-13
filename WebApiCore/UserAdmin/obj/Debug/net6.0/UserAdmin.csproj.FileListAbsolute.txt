@@ -1,0 +1,15 @@
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\bin\Debug\net6.0\UserAdmin.deps.json
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\bin\Debug\net6.0\UserAdmin.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\bin\Debug\net6.0\UserAdmin.pdb
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\bin\Debug\net6.0\Database.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\bin\Debug\net6.0\Database.pdb
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.csproj.AssemblyReference.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.AssemblyInfoInputs.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.AssemblyInfo.cs
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.csproj.CoreCompileInputs.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.csproj.CopyComplete
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\refint\UserAdmin.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\UserAdmin.pdb
+D:\training\git-training\asp.net.webapi.core\WebApiCore\UserAdmin\obj\Debug\net6.0\ref\UserAdmin.dll

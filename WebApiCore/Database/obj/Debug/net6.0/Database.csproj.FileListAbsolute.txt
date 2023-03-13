@@ -1,0 +1,12 @@
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\bin\Debug\net6.0\Database.deps.json
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\bin\Debug\net6.0\Database.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\bin\Debug\net6.0\Database.pdb
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\refint\Database.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\Database.pdb
+D:\training\git-training\asp.net.webapi.core\WebApiCore\Database\obj\Debug\net6.0\ref\Database.dll
