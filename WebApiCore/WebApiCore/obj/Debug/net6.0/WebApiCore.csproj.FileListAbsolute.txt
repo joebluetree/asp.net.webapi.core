@@ -78,7 +78,6 @@ D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.AssemblyInfoInputs.cache
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.AssemblyInfo.cs
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.csproj.CoreCompileInputs.cache
-D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.MvcApplicationPartsAssemblyInfo.cs
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.MvcApplicationPartsAssemblyInfo.cache
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\staticwebassets\msbuild.WebApiCore.Microsoft.AspNetCore.StaticWebAssets.props
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiCore.props
@@ -94,3 +93,4 @@ D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.pdb
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.genruntimeconfig.cache
 D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\ref\WebApiCore.dll
+D:\training\git-training\asp.net.webapi.core\WebApiCore\WebApiCore\obj\Debug\net6.0\WebApiCore.MvcApplicationPartsAssemblyInfo.cs

@@ -8,5 +8,6 @@ namespace Database
         {
         }
         public DbSet<userm> Userm { get; set; }
+        public DbSet<modulem> Modulem { get; set; }
     }
 }
